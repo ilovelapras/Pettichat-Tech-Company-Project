@@ -2,8 +2,8 @@
 #define _BOARD_CONFIG_H_
 
 #include <driver/gpio.h>
-#define WIFI_SSID "OPPO Reno12F 5G"
-#define WIFI_PASS "p6dppg8q"
+#define WIFI_SSID "wifi_ssid"
+#define WIFI_PASS "wifi_password"
 
 // Audio configuration
 #define AUDIO_INPUT_SAMPLE_RATE 16000
