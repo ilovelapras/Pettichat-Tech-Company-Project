@@ -1,4 +1,0 @@
-dependencies:
-  espressif/esp-tflite-micro:
-    version: '*'
-  espressif/es8311: ^1.0.0~1
